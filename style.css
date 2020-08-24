@@ -395,10 +395,13 @@ footer{
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 660px) {
-  main {
-    width: 100%;
+  html {
     margin: 0%;
     padding: 0%;
+  }
+  
+  main {
+    width: 100%;
   }
 
   header {
