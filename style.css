@@ -394,7 +394,7 @@ footer{
 
 
 /* MEDIA QUERIES */
-@media only screen and (min-width: 200px) and (max-width: 660px) {
+@media only screen and (max-width: 610px) {
   main {
     width: 100%;
     margin: 0%;
@@ -412,9 +412,9 @@ footer{
   .mobile-nav {
     display: flex;
     justify-content: space-around;
+    align-items: center;
   }
 
-  
   #desktop-courses-img, #desktop-events-img {
     display: none;
   }
@@ -543,7 +543,6 @@ footer{
     width: 100%;
     height: auto;
     padding-top: 1rem;
-    padding-left: 1rem;
     padding-bottom:1.5rem;
     margin-bottom: 0.5rem;
   }
