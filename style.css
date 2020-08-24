@@ -566,7 +566,7 @@ footer{
 
   /*THESIS*/
   .thesis-exhibit {
-    padding: 0%;
+    padding-top: 1rem;
     margin: 0%;
     display: block;
     text-align: center;
