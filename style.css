@@ -411,11 +411,15 @@ footer{
 
   .mobile-nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
   }
 
-  #desktop-courses-img, #desktop-events-img {
+  #desktop-courses-img {
+    display: none;
+  }
+  
+  #desktop-events-img {
     display: none;
   }
 
