@@ -394,7 +394,7 @@ footer{
 
 
 /* MEDIA QUERIES */
-@media only screen and (min-width: 200px) and (max-width: 700px) {
+@media only screen and (min-width: 200px) and (max-width: 617px) {
   main {
     width: 100%;
     margin: 0%;
@@ -612,7 +612,7 @@ footer{
   /*FOOTER*/
 }
 
-@media only screen and (min-width: 701px) and (max-width: 800px) {
+@media only screen and (min-width: 618px) and (max-width: 800px) {
   main {
     width: 100%;
   }
