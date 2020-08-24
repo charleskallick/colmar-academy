@@ -807,4 +807,60 @@ footer{
   }
   /*THESIS*/
 }
+
+@media only screen and (max-width: 1024px) {
+  main {
+    width: 100%;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+
+  /*THESIS*/
+  .thesis-container {
+    display: inline-flex;
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+
+  .thesis-left {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .thesis-words {
+    max-width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+
+  .thesis-right {
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+    margin-bottom: 0%;
+    padding-right: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .thesis {
+    max-width: 100%;
+    height: auto;
+    background-color: lightgrey;
+  }
+
+  #empire {
+    margin-top: 1rem;
+  }
+  /*THESIS*/
+}
 /* MEDIA QUERIES */
