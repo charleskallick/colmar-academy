@@ -798,6 +798,9 @@ footer{
     width: 100%;
     height: auto;
     background-color: lightgrey;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
   }
 
   #empire {
@@ -854,6 +857,9 @@ footer{
     width: 100%;
     height: auto;
     background-color: lightgrey;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
   }
 
   #empire {
