@@ -818,7 +818,7 @@ footer{
   }
 
 
-  #mobile {
+  #mobile, #desktop-events-img {
     display: none;
   }
 
