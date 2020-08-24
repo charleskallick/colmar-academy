@@ -612,7 +612,7 @@ footer{
   /*FOOTER*/
 }
 
-@media only screen and (min-width: 618px) and (max-width: 797px) {
+@media only screen and (min-width: 618px) and (max-width: 800px) {
   main {
     width: 100%;
   }
@@ -752,75 +752,6 @@ footer{
     display: none;
   }
   /*PROGRAMS*/
-
-  /*THESIS*/
-  .thesis-container {
-    display: inline-flex;
-    justify-content: flex-start;
-    flex-direction: column;
-  }
-
-  .thesis-left {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin-bottom: 1rem;
-  }
-
-  .thesis-words {
-    max-width: 100%;
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-  }
-
-
-  .thesis-right {
-    width: 100%;
-    height: auto;
-    margin-top: 1rem;
-    margin-bottom: 0%;
-    padding-right: 1.5rem;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-content: stretch;
-    align-items: stretch;
-  }
-
-  .thesis {
-    max-width: 40%;
-    height: auto;
-    background-color: lightgrey;
-    text-align: left;
-    display: block;
-  }
-
-  .thesis img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  .thesis-info {
-    padding-left: 1rem;
-  }
-  /*THESIS*/
-}
-
-@media only screen and (min-width: 798px) and (max-width: 1024px) {
-  main {
-    width: 100%;
-  }
-
-  .mobile-nav {
-    display: none;
-  }
-
-
-  #mobile, #desktop-events-img {
-    display: none;
-  }
 
   /*THESIS*/
   .thesis-container {
