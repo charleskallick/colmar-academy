@@ -787,8 +787,7 @@ footer{
     margin-top: 1rem;
     margin-bottom: 0%;
     padding-right: 1.5rem;
-    display: flex;
-    flex-wrap: nowrap;
+    display: inline-flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
@@ -798,7 +797,6 @@ footer{
     width: 100%;
     height: auto;
     background-color: lightgrey;
-    display: block;
   }
 
   #empire {
@@ -844,8 +842,8 @@ footer{
     margin-top: 1rem;
     margin-bottom: 0%;
     padding-right: 1.5rem;
-    display: flex;
-    flex-wrap: nowrap;
+    display: inline-flex;
+    flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
