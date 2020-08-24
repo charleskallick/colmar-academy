@@ -583,7 +583,7 @@ footer{
 
   .thesis-left video {
     max-width: 100%;
-    max-height: auto;
+    height: auto;
     display: block;
     margin: 0%;
     padding: 0%;
@@ -612,7 +612,7 @@ footer{
   /*FOOTER*/
 }
 
-@media only screen and (min-width: 700px) and (max-width: 800px) {
+@media only screen and (min-width: 700px) and (max-width: 900px) {
   main {
     width: 100%;
   }
