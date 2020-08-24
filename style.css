@@ -787,7 +787,7 @@ footer{
     margin-top: 1rem;
     margin-bottom: 0%;
     padding-right: 1.5rem;
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
