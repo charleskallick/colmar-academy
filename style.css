@@ -569,14 +569,15 @@ footer{
     width: 100%;
     height: auto;
     margin: 0%;
-    padding: 0%;
+    padding-top: 1rem;
     display: block;
     text-align: center;
   }
 
   .thesis-title {
+    width: 100%;
+    height: auto;
     margin: 0%;
-    padding-top: 1rem;
     padding-bottom: 1rem;
   }
 
