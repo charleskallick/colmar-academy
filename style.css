@@ -572,9 +572,9 @@ footer{
   }
 
   .thesis-title {
-    padding-top: 1rem;
+    margin-top: 1rem;
+    padding-top: 0%;
     padding-bottom: 1rem;
-    margin: 0%;
   }
 
   .thesis-left {
