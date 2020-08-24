@@ -567,11 +567,17 @@ footer{
     padding: 1rem;
   }
 
-  .thesis-left, .thesis-left video {
+  .thesis-left {
     padding: 0%;
     margin: 0%;
     width: 100%;
     height: auto;
+  }
+
+  .thesis-left video {
+    max-width: 100%;
+    height: auto;
+    display: block;
   }
 
   .thesis-words, .thesis-right {
