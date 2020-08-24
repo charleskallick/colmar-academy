@@ -612,7 +612,7 @@ footer{
   /*FOOTER*/
 }
 
-@media only screen and (min-width: 700px) and (max-width: 800px) {
+@media only screen and (min-width: 701px) and (max-width: 800px) {
   main {
     width: 100%;
   }
@@ -808,7 +808,7 @@ footer{
   /*THESIS*/
 }
 
-@media only screen and (min-width: 800px) and (max-width: 1024px) {
+@media only screen and (min-width: 801px) and (max-width: 1024px) {
   main {
     width: 100%;
   }
