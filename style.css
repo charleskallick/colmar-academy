@@ -566,13 +566,13 @@ footer{
 
   /*THESIS*/
   .thesis-exhibit {
-    padding-top: 1rem;
     margin: 0%;
     display: block;
     text-align: center;
   }
 
   .thesis-title {
+    padding-top: 1rem;
     padding-bottom: 1rem;
     margin: 0%;
   }
