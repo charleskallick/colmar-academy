@@ -795,7 +795,7 @@ footer{
   }
 
   .thesis {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     background-color: lightgrey;
   }
@@ -851,7 +851,7 @@ footer{
   }
 
   .thesis {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     background-color: lightgrey;
   }
