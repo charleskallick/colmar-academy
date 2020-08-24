@@ -589,7 +589,11 @@ footer{
     padding: 0%;
   }
 
-  .thesis-words, .thesis-right {
+  .thesis-words {
+    display: none;
+  }
+  
+  .thesis-right {
     display: none;
   }
   /*THESIS*/
